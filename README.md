@@ -1,4 +1,4 @@
-# Movie-Map-Ionic
+# Movie-Info App-Ionic
 
 Note you need to have node installed before installing ionic Cli  😉
 This movie app makes use of Omdb API ..(http://www.omdbapi.com/)
