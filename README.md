@@ -1,6 +1,9 @@
 # Movie-Map-Ionic
 
 Note you need to have node installed before installing ionic Cli  😉
+This movie app makes use of OpenDB API ..
+
+A simple app on Ionic 4  with API calls and Angular router! 
 
 
 ## How to Run the code:
